@@ -19,9 +19,9 @@ export const heroData = {
 export const aboutData = {
   img: 'profile eldion.jpg',
   paragraphOne:
-    "I'm a Graphic Designer and Front-End Developer. I have been creating unique websites for clients for three years now. Each of the websites I design and build is designed to capture a specific audience's attention and keep them engaged.",
+    "I'm a Graphic Designer and Front-End Developer. I have been creating unique graphics and websites for clients for over three years now. Each of the websites I design and build captures a specific audience's attention and keeps them engaged.",
   paragraphTwo:
-    "My focus is on modern web design and crafting solutions to achieve overall business goals. I'm highly proficient in Photoshop, Illustrator and InDesign as well, and use them when the job calls for it. On top of UI/UX design skills, I am also intimately familiar front-end development, having learned my way around HTML5, CSS3, JavaScript ES6 and frameworks/libraries such as Bootstrap, Modernizer, Skeleton, jQuery and more. I'm also a seasoned WordPress developer.",
+    "I like simplicity and clarity and strive to improve the quality of interaction between users and products. My focus is on modern web design, and crafting solutions to achieve various business goals. I'm highly proficient in Photoshop, Illustrator and InDesign, and use them when the job calls for it. On top of my UI/UX skills, I am also familiar with front-end development, having learned my way around HTML5, CSS3, JavaScript, ES6 and frameworks/libraries such as React, Gatsby, jQuery and more.",
   // paragraphThree: '',
   // resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
 };
