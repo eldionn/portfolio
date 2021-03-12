@@ -30,24 +30,23 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'project 1 eldion.jpg',
-    title: 'A simple React Travel Webpage',
-    info: 'This is a fully responsible travel webapage built with React',
+    img: 'project-1-eldion.jpg',
+    title: 'A simple React Travel Homepage',
+    info: 'This is a fully responsible travel webpage built with React',
     info2: '',
     url: 'https://react-travel-web.netlify.app/',
     repo: '', // if no repo, the button will not show up
   },
-  // {
-  //   id: nanoid(),
-  //   img: 'project 2 eldion.jpg',
-  //   title: 'Project Najda',
-  //   info:
-  //     '“Najda” means aid, assistance, relief and support. At PROJECT NAJDA we’ve combined our love for gaming with our love for fostering positive community growth. Our aim is to inspire and empower those who often feel disempowered or overlooked. Although gaming cannot directly remove these hurdles and obstacles PROJECT NAJDA passionately believes that gaming can provide the networking opportunities, and confidence building and safe environment that can improve lives for the better.',
-  //   info2: '',
-  //   url:
-  //     'https://www.behance.net/gallery/74601595/Project-Najda-Social-Media-Banners-and-Twitch-Design',
-  //   repo: '', // if no repo, the button will not show up
-  // },
+  {
+    id: nanoid(),
+    img: 'project-2-eldion.jpg',
+    title: 'Simple React Real Estate Sections',
+    info:
+      'In this React project is featured a slider that switches automatically between slides, or with the press of a button.',
+    info2: '',
+    url: 'https://rct-real-estate.netlify.app/',
+    repo: '', // if no repo, the button will not show up
+  },
 ];
 
 // CONTACT DATA
